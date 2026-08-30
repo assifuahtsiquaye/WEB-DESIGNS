@@ -106,3 +106,28 @@ img {
     width: 60vw;
     height: 20vh;
 }
+
+.programme-details {
+    border: 1px solid grey;
+    border-radius: 10px 15px;
+    padding: 10px 20px;
+    width: fit-content;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.programme-details div {
+    border: 1px solid grey;
+    border-radius: 10px 15px;
+    padding: 10px 20px;
+    width: fit-content;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.description-icon {
+    width: 16px;
+}
